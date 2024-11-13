@@ -1,3 +1,4 @@
+/* eslint-disable @typescript-eslint/no-explicit-any */
 
 import Navbar from "./Navbar/page";
 import Footer from "./Footer/page";
